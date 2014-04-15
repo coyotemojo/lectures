@@ -1,18 +1,15 @@
 Interactivity
 ==============================
 
-![Image](#)  
-Image from <#>. 
-
 Slides
 ------------------------------
 
-- Pending
+- [Interactivity](https://drive.google.com/file/d/0BxYofk0iB_upWnFkc0VHM0oxNDA/edit?usp=sharing)
 
-Videos
+Demos
 ------------------------------
 
-- Pending
+See the demos in [ShinyDemo](../ShinyDemo). 
 
 References
 ------------------------------
